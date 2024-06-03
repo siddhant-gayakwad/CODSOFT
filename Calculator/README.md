@@ -2,7 +2,7 @@
 
 This landing page project showcases a simple calculator application built using HTML, CSS, and JavaScript. It provides basic arithmetic functionalities including addition, subtraction, multiplication, and division.
 
-WEBSITE: [https://sid-task-2.netlify.app/](https://sid-task-2.netlify.app/)
+WEBSITE: [https://sid-codsoft-t3.netlify.app//](https://sid-codsoft-t3.netlify.app/)
 
 ![01](https://github.com/siddhant-gayakwad/CODSOFT/assets/101993978/d4004d19-2bea-43f3-9183-ed3bc6bb959c)
 
