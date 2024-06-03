@@ -30,3 +30,9 @@ TASK 3: TIC-TAC-TOC WEB APPLICATION:-
 WEBSITE: []()
 
 ![01]()
+### Author:
+
+[Siddhant Gayakwad](https://www.linkedin.com/in/siddhant-gayakwad-524524191/)
+
+Feel free to contribute to this project by forking the repository and submitting a pull request. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
+
