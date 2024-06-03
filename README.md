@@ -15,9 +15,9 @@ OFFER LETTER:-
 
 TASK 1: RESPONSIVE LANDING PAGE:-
 
-WEBSITE: []()
+WEBSITE: [https://sid-codsoft-t1.netlify.app//](https://sid-codsoft-t1.netlify.app/)
 
-![01]()
+![01](https://github.com/siddhant-gayakwad/CODSOFT/assets/101993978/2902f0dc-c80a-47f2-ad0e-691a56efb70d)
 
 TASK 2: Personal portfolio website:-
 
