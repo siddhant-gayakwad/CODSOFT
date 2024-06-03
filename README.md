@@ -9,7 +9,7 @@ LANGUAGES : HTML,CSS,JAVASCRIPT
 
 OFFER LETTER:-
 
-![OFFER LETTER](https://github.com/siddhant-gayakwad/Prodigy-InfoTech-/assets/101993978/f89ec6f1-9c17-476a-b158-2d957a50db19)
+![OFFER LETTER](https://github.com/siddhant-gayakwad/CODSOFT/assets/101993978/7cf3e13e-96d6-418b-91bd-5f32fe152a74)
 
  TASKS :-
 
