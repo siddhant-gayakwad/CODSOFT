@@ -22,4 +22,4 @@ WEBSITE: [https://sid-codsoft-t3.netlify.app//](https://sid-codsoft-t3.netlify.a
 
 ## Credits
 
-This calculator landing page was created by Siddhant Gayakwad as a simple project to demonstrate HTML, CSS, and JavaScript skills.
+This calculator landing page was created by [Siddhant Gayakwad](https://www.linkedin.com/in/siddhant-gayakwad-524524191/) as a simple project to demonstrate HTML, CSS, and JavaScript skills.
