@@ -1,1 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DanceBeat - For CodSoft</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      src="https://kit.fontawesome.com/31d87405aa.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
 
+    <section class="home" id="home">
+      <div class="content">
+        <span id="element" class="element"></span>
+        <h1><span></span></h1>
+        <p>
+          "Step into DanceBeat, where each night is an unforgettable adventure
+          in rhythm and dance. Located in the vibrant center of the city,
+          DanceBeat offers an electrifying atmosphere where dance enthusiasts of
+          all levels can unleash their potential. Our club features multiple
+          dance floors, each dedicated to different music genres from around the
+          globe. Whether you're a fan of pulsating electronic beats, smooth
+          salsa rhythms, or classic hip-hop grooves, you'll find your spot on
+          our dance floors."
+        </p>
+        <button onclick="toggleEvents()">Join</button>
+      </div>
+      <!-- Initially hidden event details inside the home section -->
+      <div id="events" style="display: none; text-align: center">
+        <h2>Choose Your Event</h2>
+        <ul>
+          <li>Salsa Night - 1500 ₹</li>
+          <li>Hip-Hop Night - 2000 ₹</li>
+          <li>Electronic Dance Night - 2500 ₹</li>
+          <li>80's Retro Party - 1200 ₹</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="about" id="about">
+      <div class="about-content">
+        <h2>About DanceBeat</h2>
+        <h3><b>Discover your Rhythm</b></h3>
+        <p>
+          Welcome to DanceBeat, the heartbeat of Hyderabad nightlife. Since our
+          doors opened in 2020, we've championed the spirit of dance, offering a
+          vibrant space where passion for rhythm unites dancers of all levels.
+        </p>
+        <p>
+          At DanceBeat, we celebrate the diversity of dance with multiple
+          genre-specific floors—from energizing Latin beats to electrifying
+          hip-hop. Our club is not just about dancing; it's about creating
+          connections. We host workshops, performances, and social events that
+          turn strangers into family.
+        </p>
+        <p>
+          Join us at DanceBeat, where every night is an invitation to dance,
+          connect, and celebrate life. Explore the rhythm, embrace the
+          community, and be part of our continuing legacy. Dance, laugh, and
+          create memories with us.
+        </p>
+        <p>Visit us tonight and feel the beat of DanceBeat!</p>
+      </div>
+      <div class="about-images">
+        <img src="images\about 1.jpeg" alt="Dance floor" />
+        <img src="images\about 2.jpg" alt="Dance event" />
+      </div>
+    </section>
+
+    <section class="contact" id="contact">
+      <h2>Contact Us</h2>
+      <p>
+        Have questions or need more information? Contact us or visit us at Club
+        DanceBeat. Our friendly staff is here to help you get the best dancing
+        experience possible
+      </p>
+      <p>
+        <i class="fa-solid fa-phone"></i><b><span> Call us:</span></b> +91
+        9924610174
+      </p>
+      <p>
+        <i class="fa-solid fa-envelope"></i
+        ><b> <span> Email us:</span></b> Sid.gls23@gmail.com
+      </p>
+      <div class="social-icons">
+        <a href=""><i class="fa-brands fa-instagram"></i></a>
+        <a href=""><i class="fa-brands fa-twitter"></i></a>
+        <a href=""><i class="fa-brands fa-facebook"></i></a>
+      </div>
+      <form
+        id="contactForm"
+        action="https://script.google.com/macros/s/AKfycbwCwuzdahUc8s9hTDgxuWAiBs7elRhNk-kkvI0p3iOwgh7w1BYrbnZvG4eTpeCwX4lYtA/exec"
+        method="POST"
+      >
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="Your Name"
+          required
+        />
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="Your Email"
+          required
+        />
+        <textarea
+          id="message"
+          name="message"
+          placeholder="Your Message"
+          required
+        ></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+
+      <div class="copyright">
+        <p>Join Now and Transform Your Life!</p>
+        <p>
+          <i class="fa-regular fa-copyright"></i>2024 All Rights For CodeSoft
+          Reserved
+          <br />
+          <br />
+          <i class="fa-regular fa-heart"> love &nbsp; for &nbsp; Siddhant </i>
+        </p>
+      </div>
+    </section>
+    <script src="script.js"></script>
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <!-- Setup and start animation! -->
+    <script>
+      var typed = new Typed("#element", {
+        strings: ["Step into the Rhythm at ", "DanceBeat"],
+        typeSpeed: 50,
+      });
+    </script>
+  </body>
+</html>
