@@ -25,11 +25,12 @@ WEBSITE: []()
 
 ![01]()
 
-TASK 3: TIC-TAC-TOC WEB APPLICATION:-
+TASK 3: Calculator Application:-
 
-WEBSITE: []()
+WEBSITE: [https://sid-codsoft-t3.netlify.app//](https://sid-codsoft-t3.netlify.app/)
 
-![01]()
+![01](https://github.com/siddhant-gayakwad/CODSOFT/assets/101993978/d4004d19-2bea-43f3-9183-ed3bc6bb959c)
+
 ### Author:
 
 [Siddhant Gayakwad](https://www.linkedin.com/in/siddhant-gayakwad-524524191/)
