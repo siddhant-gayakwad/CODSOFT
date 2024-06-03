@@ -6,8 +6,7 @@ This landing page project is designed as a practice work in front end. It featur
 
 TASK 1: RESPONSIVE LANDING PAGE:-
 
-WEBSITE: [https://sid-task-1.netlify.app/](https://sid-task-1.netlify.app/)
-
+WEBSITE: [https://sid-codsoft-t1.netlify.app//](https://sid-codsoft-t1.netlify.app/)
 ![01]()
 
 ## Features
