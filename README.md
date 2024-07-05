@@ -7,9 +7,9 @@ MODE: ONLINE
 
 LANGUAGES : HTML,CSS,JAVASCRIPT
 
-OFFER LETTER:-
+CERTIFICATE:-
 
-![OFFER LETTER](https://github.com/siddhant-gayakwad/CODSOFT/assets/101993978/7cf3e13e-96d6-418b-91bd-5f32fe152a74)
+![CERTIFICATE](https://github.com/siddhant-gayakwad/CODSOFT/assets/101993978/3b640be0-2d04-4d97-ad13-3dd936fbae2d)
 
  TASKS :-
 
